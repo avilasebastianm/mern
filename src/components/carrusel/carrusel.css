@@ -1,0 +1,97 @@
+#galeria {
+  width: 95%;
+  margin: auto;
+  margin-bottom: 20px;
+  height: 50%;
+}
+
+.columnaizq {
+  float: left;
+  width: 50%;
+}
+
+.columnader {
+  float: right;
+  width: 50%;
+}
+
+.ciudad {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  margin: 6px 3px;
+  overflow: hidden;
+}
+#barcelona {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("../../assets/barcelona.jpg");
+}
+#newyork {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("../../assets/nueva_york.jpg");
+}
+#amsterdam {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("../../assets/amsterdam.jpg");
+}
+#paris {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("../../assets/paris.jpg");
+}
+#cordoba {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("../../assets/cordoba.jpg");
+}
+#moscow {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("../../assets/moscow.jpg");
+}
+#tokio {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("../../assets/tokio.jpg");
+}
+#sofia {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("../../assets/sofia.jpg");
+}
+#liverpool {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("../../assets/liverpool.jpg");
+}
+#madrid {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("../../assets/madrid.jpg");
+}
+#gotham {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("../../assets/gotham.jpg");
+}
+#sydney {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("../../assets/sydney.jpg");
+}

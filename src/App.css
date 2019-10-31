@@ -1,0 +1,10 @@
+* {
+  font-family: "Nunito", sans-serif;
+  font-weight: bold;
+}
+.App-header {
+  font-family: "Roboto Slab", serif;
+}
+body {
+  padding-top: 70px;
+}

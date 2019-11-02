@@ -84,7 +84,7 @@ class Carrusel extends Component {
                 <h4>Liverpool</h4>
               </div>
               <div></div>
-              <div class="ciudad" id="liverpool">
+              <div class="ciudad" id="gotham">
                 {/* <img src={require("../../assets/gotham.jpg")} width="200px" /> */}
                 <h4>Gotham</h4>
               </div>
@@ -92,16 +92,13 @@ class Carrusel extends Component {
               <div></div>
             </div>
             <div class="columnader">
-              <div class="ciudad">
-                <img src={require("../../assets/madrid.jpg")} width="200px" />
-              </div>
-              <div>
+              <div class="ciudad" id="madrid">
+                {/* <img src={require("../../assets/madrid.jpg")} width="200px" /> */}
                 <h4>Madrid</h4>
               </div>
-              <div class="ciudad">
-                <img src={require("../../assets/sydney.jpg")} width="200px" />
-              </div>
-              <div>
+              <div></div>
+              <div class="ciudad" id="sydney">
+                {/* <img src={require("../../assets/sydney.jpg")} width="200px" /> */}
                 <h4>Sydney</h4>
               </div>
             </div>
